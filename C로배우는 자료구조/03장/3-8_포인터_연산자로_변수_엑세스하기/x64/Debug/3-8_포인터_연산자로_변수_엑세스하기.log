@@ -1,0 +1,15 @@
+﻿  3-8.cpp
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(9,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(13,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(13,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int **' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(14,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(14,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(19,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int **' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-8_포인터_연산자로_변수_엑세스하기\3-8.cpp(20,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+  3-8_포인터_연산자로_변수_엑세스하기.vcxproj -> C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\x64\Debug\3-8_포인터_연산자로_변수_엑세스하기.exe

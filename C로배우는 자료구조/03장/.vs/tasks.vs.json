@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-3-2_학년별_취득_학점_입출력하기",
+      "appliesTo": "3-2_학년별_취득_학점_입출력하기/",
+      "type": "launch"
+    }
+  ]
+}
