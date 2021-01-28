@@ -1,0 +1,17 @@
+﻿  3-11.cpp
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(6,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(15,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char **' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(16,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char *' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(20,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(20,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char **' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(21,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char *' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(26,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char ***'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(26,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char ***' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(27,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(27,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char **' 형식)과(와) 충돌합니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(28,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char *'입니다.
+C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\3-11_포인터_배열과_포인터의_포인터_사용하기\3-11.cpp(28,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) 인수 1('const char *' 형식)과(와) 충돌합니다.
+  3-11_포인터_배열과_포인터의_포인터_사용하기.vcxproj -> C:\Users\Kyungdong\Documents\C_dataStructure\C로배우는 자료구조\03장\x64\Debug\3-11_포인터_배열과_포인터의_포인터_사용하기.exe

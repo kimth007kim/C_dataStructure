@@ -19,6 +19,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-7_3차원_문자_배열�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-8_포인터_연산자로_변수_엑세스하기", "3-8_포인터_연산자로_변수_엑세스하기\3-8_포인터_연산자로_변수_엑세스하기.vcxproj", "{B8F32AE3-61F0-452A-AF4D-1EC2FD508F94}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-9_포인터를_이용하여_문자열_처리하기", "3-9_포인터를_이용하여_문자열_처리하기\3-9_포인터를_이용하여_문자열_처리하기.vcxproj", "{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-10_포인터_배열로_문자열_저장하기", "3-10_포인터_배열로_문자열_저장하기\3-10_포인터_배열로_문자열_저장하기.vcxproj", "{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-11_포인터_배열과_포인터의_포인터_사용하기", "3-11_포인터_배열과_포인터의_포인터_사용하기\3-11_포인터_배열과_포인터의_포인터_사용하기.vcxproj", "{0A729B95-570D-4665-B08F-D239B5845236}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3장연습문제_포인터와 주소 연산자 사용하기", "3장연습문제_포인터와 주소 연산자 사용하기\3장연습문제_포인터와 주소 연산자 사용하기.vcxproj", "{59BE512C-7ACF-4814-86A9-9EC6549D75C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +99,38 @@ Global
 		{B8F32AE3-61F0-452A-AF4D-1EC2FD508F94}.Release|x64.Build.0 = Release|x64
 		{B8F32AE3-61F0-452A-AF4D-1EC2FD508F94}.Release|x86.ActiveCfg = Release|Win32
 		{B8F32AE3-61F0-452A-AF4D-1EC2FD508F94}.Release|x86.Build.0 = Release|Win32
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Debug|x64.ActiveCfg = Debug|x64
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Debug|x64.Build.0 = Debug|x64
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Debug|x86.ActiveCfg = Debug|Win32
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Debug|x86.Build.0 = Debug|Win32
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Release|x64.ActiveCfg = Release|x64
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Release|x64.Build.0 = Release|x64
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Release|x86.ActiveCfg = Release|Win32
+		{05A9BFBB-EB25-4FB7-BE03-485F9C3E2E79}.Release|x86.Build.0 = Release|Win32
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Debug|x64.ActiveCfg = Debug|x64
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Debug|x64.Build.0 = Debug|x64
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Debug|x86.Build.0 = Debug|Win32
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Release|x64.ActiveCfg = Release|x64
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Release|x64.Build.0 = Release|x64
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Release|x86.ActiveCfg = Release|Win32
+		{E88C39D7-F48B-413A-BCD9-385AD4E7B72B}.Release|x86.Build.0 = Release|Win32
+		{0A729B95-570D-4665-B08F-D239B5845236}.Debug|x64.ActiveCfg = Debug|x64
+		{0A729B95-570D-4665-B08F-D239B5845236}.Debug|x64.Build.0 = Debug|x64
+		{0A729B95-570D-4665-B08F-D239B5845236}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A729B95-570D-4665-B08F-D239B5845236}.Debug|x86.Build.0 = Debug|Win32
+		{0A729B95-570D-4665-B08F-D239B5845236}.Release|x64.ActiveCfg = Release|x64
+		{0A729B95-570D-4665-B08F-D239B5845236}.Release|x64.Build.0 = Release|x64
+		{0A729B95-570D-4665-B08F-D239B5845236}.Release|x86.ActiveCfg = Release|Win32
+		{0A729B95-570D-4665-B08F-D239B5845236}.Release|x86.Build.0 = Release|Win32
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Debug|x64.ActiveCfg = Debug|x64
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Debug|x64.Build.0 = Debug|x64
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Debug|x86.Build.0 = Debug|Win32
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Release|x64.ActiveCfg = Release|x64
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Release|x64.Build.0 = Release|x64
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Release|x86.ActiveCfg = Release|Win32
+		{59BE512C-7ACF-4814-86A9-9EC6549D75C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
